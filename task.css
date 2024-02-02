@@ -1,0 +1,15 @@
+.image{
+    position: absolute;
+}
+.image1{
+    border-image: round;
+    position: relative;
+    width: 50%;
+    height: 25%;
+    margin-left: 25%;
+    margin-top: 35%;
+    border: 5px solid rgb(6, 250, 238);
+}
+.image1:hover{
+    border: 5px solid rgb(84, 85, 85);
+}
